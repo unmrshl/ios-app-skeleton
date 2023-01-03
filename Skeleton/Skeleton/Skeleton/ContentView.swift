@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  Skeleton
-//
-//  Created by Marshall Briggs on 1/3/23.
-//
+/* Copyright (c) 2022 unmrshl LLC. All Rights Reserved. */
 
 import SwiftUI
 
